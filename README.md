@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vasanthvk47/leetcode_problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vasanthvk47/leetcode_problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vasanthvk47/leetcode_problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vasanthvk47/leetcode_problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
