@@ -1,6 +1,6 @@
 int kthFactor(int n, int k) {
     int l=1;
-    for(int i=1;i<=n;i++)
+    for(int i=1;i<=n/2;i++)
     {
        if(n%i==0)
        {
@@ -11,5 +11,7 @@ int kthFactor(int n, int k) {
         ++l;
        }
     }
+    printf("%d %d %d",l,k,n);
+    if(l==k) return n;
     return -1;
 }
