@@ -1,5 +1,5 @@
 
-int n, m,i,j;
+int n, m;
 bool inside(int i, int j) {
     return (0<=i)&&(i<n)&&(0<=j)&&(j<m);
 }
@@ -17,8 +17,8 @@ int numIslands(char** grid, int gridSize, int* gridColSize) {
     n=gridSize;
     m=*gridColSize;
     int num=0;
-    for( int i=0; i<n; i++)
-        for( int j=0; j<m; j++){
+    for(register int i=0; i<n; i++)
+        for(register int j=0; j<m; j++){
             if(grid[i][j]=='1'){
                 num++;
                 dfs(i, j, grid);   
