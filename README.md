@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasanthvk47/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/2487-optimal-partition-of-string) |
 ## Heap (Priority Queue)
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
