@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0031-next-permutation) |
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/vasanthvk47/leetcode_problems/tree/master/0498-diagonal-traverse) |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
