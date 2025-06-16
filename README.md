@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/vasanthvk47/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/vasanthvk47/leetcode_problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
