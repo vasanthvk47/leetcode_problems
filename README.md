@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/vasanthvk47/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasanthvk47/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/2487-optimal-partition-of-string) |
 ## Heap (Priority Queue)
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/0052-n-queens-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
