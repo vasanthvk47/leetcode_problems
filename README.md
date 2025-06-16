@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/vasanthvk47/leetcode_problems/tree/master/0498-diagonal-traverse) |
+| [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [2487-optimal-partition-of-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/2487-optimal-partition-of-string) |
 ## Sliding Window
 |  |
@@ -104,8 +106,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0031-next-permutation) |
+## Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
