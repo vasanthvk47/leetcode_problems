@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vasanthvk47/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/vasanthvk47/leetcode_problems/tree/master/0806-domino-and-tromino-tiling) |
 | [1761-count-sorted-vowel-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
 ## Backtracking
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
