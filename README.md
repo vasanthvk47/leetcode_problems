@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/0043-multiply-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/vasanthvk47/leetcode_problems/tree/master/1585-the-kth-factor-of-n) |
+| [1761-count-sorted-vowel-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/vasanthvk47/leetcode_problems/tree/master/0806-domino-and-tromino-tiling) |
+| [1761-count-sorted-vowel-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
