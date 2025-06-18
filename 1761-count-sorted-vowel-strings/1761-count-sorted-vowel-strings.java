@@ -1,5 +1,5 @@
 class Solution {
-    public int sum(int i,int j,int[] a)
+   /* public int sum(int i,int j,int[] a)
     {
         int s=0;
         for(i=i;i<j;i++) s=s+a[i];
@@ -19,5 +19,11 @@ class Solution {
        }
        return 0;
 
+    }
+}
+*/
+
+    public int countVowelStrings(int n) {
+        return (n + 1) * (n + 2) * (n + 3) * (n + 4) / 24;
     }
 }
