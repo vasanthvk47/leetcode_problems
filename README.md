@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0498-diagonal-traverse](https://github.com/vasanthvk47/leetcode_problems/tree/master/0498-diagonal-traverse) |
+| [0643-maximum-average-subarray-i](https://github.com/vasanthvk47/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vasanthvk47/leetcode_problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasanthvk47/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/vasanthvk47/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 ## Union Find
 |  |
 | ------- |
