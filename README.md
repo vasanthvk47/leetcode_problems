@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vasanthvk47/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/vasanthvk47/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vasanthvk47/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 ## Two Pointers
