@@ -13,7 +13,7 @@ class Solution {
         int c=0;
         ListNode temp=head,t1=null;
         while(temp!=null) {c++;temp=temp.next;}
-        if(c==1) return null;
+        if(c==n) return head.next;
         temp=head;
         while(temp!=null )
         {
@@ -22,15 +22,16 @@ class Solution {
                 if(t1==null)
                 {
                     head=temp.next;
-                   
                 }
-                else{
-                t1.next=temp.next;
+                else
+                {
+                    t1.next=temp.next;
+                }
+                break;
             }
-                break;}
            c--;
            t1=temp;
-            temp=temp.next;
+           temp=temp.next;
         }
         return head;
 
