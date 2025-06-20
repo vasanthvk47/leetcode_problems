@@ -22,13 +22,12 @@ class Solution {
                 if(t1==null)
                 {
                     head=temp.next;
-            System.out.println(c+" "+n);
-                    break;
+                   
                 }
                 else{
                 t1.next=temp.next;
-                break;}
             }
+                break;}
            c--;
            t1=temp;
             temp=temp.next;
