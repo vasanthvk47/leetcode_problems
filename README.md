@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/2487-optimal-partition-of-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vasanthvk47/leetcode_problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vasanthvk47/leetcode_problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/0043-multiply-strings) |
 | [2487-optimal-partition-of-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/2487-optimal-partition-of-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vasanthvk47/leetcode_problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vasanthvk47/leetcode_problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1585-the-kth-factor-of-n](https://github.com/vasanthvk47/leetcode_problems/tree/master/1585-the-kth-factor-of-n) |
 | [1761-count-sorted-vowel-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vasanthvk47/leetcode_problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vasanthvk47/leetcode_problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vasanthvk47/leetcode_problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
