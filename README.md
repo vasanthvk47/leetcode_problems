@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/vasanthvk47/leetcode_problems/tree/master/0498-diagonal-traverse) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/vasanthvk47/leetcode_problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Tree
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vasanthvk47/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/0043-multiply-strings) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/vasanthvk47/leetcode_problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2487-optimal-partition-of-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/2487-optimal-partition-of-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vasanthvk47/leetcode_problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/vasanthvk47/leetcode_problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
