@@ -18,7 +18,6 @@ class Solution {
 
         for(int i=n-1;i>=0;i--)
         {
-            System.out.println(l1.get(i).val+" "+l2.get(i).val);
             if(l1.get(i)==l2.get(i)) return l1.get(i); 
         }
 
