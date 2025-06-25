@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vasanthvk47/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/vasanthvk47/leetcode_problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vasanthvk47/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0064-minimum-path-sum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/vasanthvk47/leetcode_problems/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/0113-path-sum-ii) |
 ## Sorting
