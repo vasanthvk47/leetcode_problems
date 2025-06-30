@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vasanthvk47/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0940-fruit-into-baskets](https://github.com/vasanthvk47/leetcode_problems/tree/master/0940-fruit-into-baskets) |
+| [1036-rotting-oranges](https://github.com/vasanthvk47/leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vasanthvk47/leetcode_problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vasanthvk47/leetcode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vasanthvk47/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vasanthvk47/leetcode_problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/vasanthvk47/leetcode_problems/tree/master/1036-rotting-oranges) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vasanthvk47/leetcode_problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/vasanthvk47/leetcode_problems/tree/master/0498-diagonal-traverse) |
+| [1036-rotting-oranges](https://github.com/vasanthvk47/leetcode_problems/tree/master/1036-rotting-oranges) |
 ## Counting
 |  |
 | ------- |
