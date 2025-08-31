@@ -1,6 +1,8 @@
 class Solution {
     public String convert(String s, int numRows) {
+        if(numRows==1) return s;
         int n=1,i=0,f=0;
+        
         int arr[]=new int[s.length()];
         while(i<s.length())
         {
