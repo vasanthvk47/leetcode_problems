@@ -1,38 +1,35 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if(numRows==1) return s;
-        int n=1,i=0,f=0;
-        
-        int arr[]=new int[s.length()];
-        while(i<s.length())
-        {
-            arr[i]=n;
-            if(n==numRows){
-                f=0;
-            }
-            if(n==1)
-            {
-                f=1;
-            }
-            if(f==0) --n;
-            else if(f==1) ++n;
-            i++;
+        if (numRows == 1) return s;
+
+        // Step 1: Create a StringBuilder for each row
+        StringBuilder[] rows = new StringBuilder[numRows];
+        for (int i = 0; i < numRows; i++) {
+            rows[i] = new StringBuilder();
         }
-        for( i=0;i<s.length();i++)
-        System.out.println(arr[i]+" ");
-        StringBuilder s1=new StringBuilder();
-        n=1;
-        while(n<=numRows)
-        {
-             i=0;
-            while(i<s.length())
-            {
-                if(arr[i]==n) s1.append(s.charAt(i));
-                ++i;
+
+        // Step 2: Traverse the string
+        int currRow = 0;
+        boolean goingDown = false;
+
+        for (char c : s.toCharArray()) {
+            rows[currRow].append(c);
+
+            // Flip direction at top or bottom row
+            if (currRow == 0 || currRow == numRows - 1) {
+                goingDown = !goingDown;
             }
-            n++;
+
+            // Move to next row
+            currRow += goingDown ? 1 : -1;
         }
-        return s1.toString();
+
+        // Step 3: Merge all rows
+        StringBuilder result = new StringBuilder();
+        for (StringBuilder row : rows) {
+            result.append(row);
+        }
+
+        return result.toString();
     }
-    
 }
