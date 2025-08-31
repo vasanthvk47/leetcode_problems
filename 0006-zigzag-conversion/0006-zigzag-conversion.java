@@ -14,25 +14,25 @@ class Solution {
             {
                 f=1;
             }
-            if(f==0 && n!=1) --n;
-            else if(f==1 && numRows!=1) ++n;
+            if(f==0) --n;
+            else if(f==1) ++n;
             i++;
         }
         for( i=0;i<s.length();i++)
         System.out.println(arr[i]+" ");
-        String s1="";
+        StringBuilder s1=new StringBuilder();
         n=1;
         while(n<=numRows)
         {
              i=0;
             while(i<s.length())
             {
-                if(arr[i]==n) s1=s1+s.charAt(i);
+                if(arr[i]==n) s1.append(s.charAt(i));
                 ++i;
             }
             n++;
         }
-        return s1;
+        return s1.toString();
     }
     
 }
