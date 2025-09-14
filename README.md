@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/vasanthvk47/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanthvk47/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vasanthvk47/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0940-fruit-into-baskets](https://github.com/vasanthvk47/leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/vasanthvk47/leetcode_problems/tree/master/1036-rotting-oranges) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/vasanthvk47/leetcode_problems/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
