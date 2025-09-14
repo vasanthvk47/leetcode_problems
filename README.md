@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/vasanthvk47/leetcode_problems/tree/master/1585-the-kth-factor-of-n) |
 | [1761-count-sorted-vowel-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vasanthvk47/leetcode_problems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/vasanthvk47/leetcode_problems/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1761-count-sorted-vowel-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/1761-count-sorted-vowel-strings) |
 ## Backtracking
 |  |
@@ -265,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
