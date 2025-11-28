@@ -1,21 +1,33 @@
 class Solution {
     public int maxFrequency(int[] nums, int k) {
-        if(nums.length == 30000 && nums[0]==1) return 29999;
-        Arrays.sort(nums);
-        int l = 0, r = 0, ans = 0;
-        long sum = 0;
-
-        while (r < nums.length) {
-            sum += nums[r];
-
-            while (nums[r] * (r - l + 1) - sum > k) {
-                sum -= nums[l];
-                l++;
-            }
-
-            ans = Math.max(ans, (r - l + 1));
-            r++;
+        
+        int min = Integer.MAX_VALUE;
+        int max = 0;
+        for (int num: nums) {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
         }
-        return ans;
+
+        int length = max - min+1;
+        int[] count = new int[length];
+
+        for(int num: nums){
+            count[num-min]++;
+        }
+
+        int start = 0, sum = 0, ans = 0, cnt = 0, startCnt = count[0];
+        for(int i = 0; i < length; i++){
+            sum += cnt;
+            cnt += count[i];
+            while(sum > k){
+                while (startCnt == 0) startCnt = count[++start];
+                sum -= i - start;
+                startCnt--;
+                cnt--;
+            }
+            ans = Math.max(ans, cnt);
+        }
+        return ans;  
+        
     }
 }
