@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/vasanthvk47/leetcode_problems/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/vasanthvk47/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/vasanthvk47/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanthvk47/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vasanthvk47/leetcode_problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/vasanthvk47/leetcode_problems/tree/master/0940-fruit-into-baskets) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0127-word-ladder](https://github.com/vasanthvk47/leetcode_problems/tree/master/0127-word-ladder) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vasanthvk47/leetcode_problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2487-optimal-partition-of-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/2487-optimal-partition-of-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vasanthvk47/leetcode_problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasanthvk47/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vasanthvk47/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/vasanthvk47/leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vasanthvk47/leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
