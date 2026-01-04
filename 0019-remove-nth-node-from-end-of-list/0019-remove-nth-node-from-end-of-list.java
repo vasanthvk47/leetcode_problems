@@ -9,29 +9,48 @@
  * }
  */
 class Solution {
-    public ListNode removeNthFromEnd(ListNode head, int n) {
-        int c=0;
-        ListNode temp=head,t1=null;
-        while(temp!=null) {c++;temp=temp.next;}
-        if(c==n) return head.next;
-        temp=head;
-        while(temp!=null )
+    public ListNode reverse(ListNode head)
+    {
+        ListNode net=head;
+        ListNode curr=head;
+        ListNode prev=null;
+
+        while(curr.next!=null)
         {
-            if(c==n)
-            {
-                if(t1==null)
-                {
-                    head=temp.next;
-                }
-                else
-                {
-                    t1.next=temp.next;
-                }
-                break;
-            }
-           c--;
-           t1=temp;
-           temp=temp.next;
+            net=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=net;
+        }
+        curr.next=prev;
+        head=curr;
+        return head;
+    }
+
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        head=reverse(head);
+        ListNode temp=head;
+        ListNode travel_temp=head;
+        int i=1;
+        while(i!=n)
+        {
+            travel_temp=temp;
+            temp=temp.next;
+            i++;
+        }
+
+        if(n==1 && head.next==null)
+        {
+            return null;
+        }
+        else if(n==1 && head.next!=null) head=head.next;
+        else   travel_temp.next=temp.next;
+        head=reverse(head);
+        temp=head;
+        while(temp!=null)
+        {
+            System.out.println(temp.val);
+            temp=temp.next;
         }
         return head;
 
