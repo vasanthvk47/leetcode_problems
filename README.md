@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/vasanthvk47/leetcode_problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vasanthvk47/leetcode_problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vasanthvk47/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/vasanthvk47/leetcode_problems/tree/master/0075-sort-colors) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vasanthvk47/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vasanthvk47/leetcode_problems/tree/master/0055-jump-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/vasanthvk47/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vasanthvk47/leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2487-optimal-partition-of-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/2487-optimal-partition-of-string) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vasanthvk47/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vasanthvk47/leetcode_problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/vasanthvk47/leetcode_problems/tree/master/0120-triangle) |
