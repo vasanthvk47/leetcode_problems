@@ -1,53 +1,81 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
+// /**
+//  * Definition for singly-linked list.
+//  * public class ListNode {
+//  *     int val;
+//  *     ListNode next;
+//  *     ListNode() {}
+//  *     ListNode(int val) { this.val = val; }
+//  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+//  * }
+//  */
+// class Solution {
+//     public ListNode reverse(ListNode head)
+//     {
+//         ListNode net=head;
+//         ListNode curr=head;
+//         ListNode prev=null;
+
+//         while(curr.next!=null)
+//         {
+//             net=curr.next;
+//             curr.next=prev;
+//             prev=curr;
+//             curr=net;
+//         }
+//         curr.next=prev;
+//         head=curr;
+//         return head;
+//     }
+
+//     public ListNode removeNthFromEnd(ListNode head, int n) {
+//         head=reverse(head);
+//         ListNode temp=head;
+//         ListNode travel_temp=head;
+//         int i=1;
+//         while(i!=n)
+//         {
+//             travel_temp=temp;
+//             temp=temp.next;
+//             i++;
+//         }
+
+//         if(n==1 && head.next==null)
+//         {
+//             return null;
+//         }
+//         else if(n==1 && head.next!=null) head=head.next;
+//         else   travel_temp.next=temp.next;
+//         head=reverse(head);
+//         System.gc();
+//         return head;
+
+//     }
+// }
+
+
 class Solution {
-    public ListNode reverse(ListNode head)
-    {
-        ListNode net=head;
-        ListNode curr=head;
-        ListNode prev=null;
-
-        while(curr.next!=null)
-        {
-            net=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=net;
-        }
-        curr.next=prev;
-        head=curr;
-        return head;
-    }
-
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        head=reverse(head);
-        ListNode temp=head;
-        ListNode travel_temp=head;
-        int i=1;
-        while(i!=n)
-        {
-            travel_temp=temp;
-            temp=temp.next;
-            i++;
+
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+
+        ListNode fast = dummy;
+        ListNode slow = dummy;
+
+        // Move fast n+1 steps
+        for (int i = 0; i <= n; i++) {
+            fast = fast.next;
         }
 
-        if(n==1 && head.next==null)
-        {
-            return null;
+        // Move both until fast reaches end
+        while (fast != null) {
+            fast = fast.next;
+            slow = slow.next;
         }
-        else if(n==1 && head.next!=null) head=head.next;
-        else   travel_temp.next=temp.next;
-        head=reverse(head);
-        System.gc();
-        return head;
 
+        // Delete node
+        slow.next = slow.next.next;
+
+        return dummy.next;
     }
 }
