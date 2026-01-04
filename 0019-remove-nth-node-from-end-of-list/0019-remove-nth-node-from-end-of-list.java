@@ -46,12 +46,7 @@ class Solution {
         else if(n==1 && head.next!=null) head=head.next;
         else   travel_temp.next=temp.next;
         head=reverse(head);
-        temp=head;
-        while(temp!=null)
-        {
-            System.out.println(temp.val);
-            temp=temp.next;
-        }
+        System.gc();
         return head;
 
     }
