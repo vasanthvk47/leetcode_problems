@@ -11,6 +11,7 @@ class Solution {
             if(height[left] > height[right] ) right--;
             else  left++;
         }
+        System.gc();
         return max;
     }
 }
