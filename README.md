@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vasanthvk47/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/vasanthvk47/leetcode_problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/vasanthvk47/leetcode_problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vasanthvk47/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vasanthvk47/leetcode_problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vasanthvk47/leetcode_problems/tree/master/0056-merge-intervals) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vasanthvk47/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/vasanthvk47/leetcode_problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/vasanthvk47/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/1013-fibonacci-number) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vasanthvk47/leetcode_problems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/vasanthvk47/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/vasanthvk47/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/vasanthvk47/leetcode_problems/tree/master/0463-island-perimeter) |
