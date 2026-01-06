@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/vasanthvk47/leetcode_problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/vasanthvk47/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vasanthvk47/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/vasanthvk47/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/vasanthvk47/leetcode_problems/tree/master/0043-multiply-strings) |
 | [0127-word-ladder](https://github.com/vasanthvk47/leetcode_problems/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vasanthvk47/leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vasanthvk47/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/vasanthvk47/leetcode_problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vasanthvk47/leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/vasanthvk47/leetcode_problems/tree/master/0234-palindrome-linked-list) |
