@@ -1,29 +1,26 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
-    private static final String[] PHONE_MAP = {
-        "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
+    public static final String phone_no_char[]={
+        "","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"
     };
-    
     public List<String> letterCombinations(String digits) {
-        List<String> combinations = new ArrayList<>();
-        if (digits.isEmpty()) return combinations;
-        backtrack(0, digits, new StringBuilder(), combinations);
-        return combinations;
+       ArrayList<String> result=new ArrayList<>();
+       if(digits.length()==0) return result;
+       backtrack(0,result,digits,new StringBuilder());
+       return result;
     }
-    
-    private void backtrack(int index, String digits, StringBuilder path, List<String> combinations) {
-        if (index == digits.length()) {
-            combinations.add(path.toString());
+    public void backtrack(int ind,List<String> l,String d,StringBuilder p)
+    {
+        if(ind == d.length())
+        {
+            l.add(p.toString());
             return;
         }
-        
-        String possibleLetters = PHONE_MAP[digits.charAt(index) - '0'];
-        for (char letter : possibleLetters.toCharArray()) {
-            path.append(letter);
-            backtrack(index + 1, digits, path, combinations);
-            path.deleteCharAt(path.length() - 1); // Backtrack
+        String s=phone_no_char[d.charAt(ind)-'0'-1];
+        for(char c : s.toCharArray())
+        {
+            p.append(c);
+            backtrack(ind+1,l,d,p);
+            p.deleteCharAt(p.length()-1);
         }
     }
 }
